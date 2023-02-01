@@ -1,0 +1,7 @@
+1. git branch <branch-name>
+2. git checkout <branch-name>
+3. git add . & git commit -m "commit message"
+4. git push --set-upstream origin <branch-name>
+5. git merge <branch-name> (dont forget to check out to make branch before typing this command)
+6. Get back to the respsitory -> create a pull request -> merge the pull request
+
